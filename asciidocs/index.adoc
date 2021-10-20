@@ -1,6 +1,6 @@
-= My Project
-firstname lastname
-1.0.0, yyyy-mm-dd: Some notes
+= Projekt proposal
+Elias Just
+1.0.0, 2021-010-20: ITP
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -14,8 +14,29 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
+==  Sync Moodle to Trello
+
+=== Technologien
+=== Projekthintergrund
+https://Trello.com[Trello] ist ein umfassendes Tool um Aufgaben zu tracken und zu organisieren. Deshalb ist, wäre ein Tool mit dem man seine Moodle Aufgaben zu Trello automatisch konvergieren kann sehr nützlich.
+
+=== Ziele
+
+==== Zweck
+Das Programm dient zur synchronising von Aufgaben, von Moodle zu Trello.
+
+==== Endergebnis
+* Der Server soll am Raspberry laufen.
+* In einer Datenbank werden die Synchronisierten Daten zwischen gespeichert.
+* Bei Bedarf sollen die Application mehrere user verwenden können.
+* In einer Grafische Benutzeroberfläche kann man den Serverstatus auslesen und sich ansehen wie lang man durchschnittlich für eine Aufgabe benötigt.( beliebig erweiterbar)
+
+==== Kriterien
+* Aufgaben werden zu Trello automatisch synchronisiert
+* Es wird mit der Datenbank überprüft, ob die Aufgaben bereits in Trello hochgeladen wurden.
+* Es wird überprüft, ob sich Daten in Moodle geändert haben.
 
 
-=== Hello
+
+
 
