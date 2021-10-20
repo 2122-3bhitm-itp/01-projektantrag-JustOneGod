@@ -1,4 +1,5 @@
-https://2122-3bhitm-itp.github.io/01-projektantrag-JustOneGod/[Website]
+https://2122-3bhitm-itp.github.io/01-projektantrag-JustOneGod
+
 
 1. Preparations
 
