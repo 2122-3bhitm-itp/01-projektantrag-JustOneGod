@@ -1,3 +1,6 @@
+https://2122-3bhitm-itp.github.io/01-projektantrag-JustOneGod
+
+
 1. Preparations
 
 1.1 Create a .env - file
