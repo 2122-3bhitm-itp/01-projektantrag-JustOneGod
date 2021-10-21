@@ -16,9 +16,16 @@ ifdef::backend-html5[]
 
 ==  Sync Moodle to Trello
 
-=== Technologien
 === Projekthintergrund
 https://Trello.com[Trello] ist ein umfassendes Tool um Aufgaben zu tracken und zu organisieren. Deshalb ist, wäre ein Tool mit dem man seine Moodle Aufgaben zu Trello automatisch konvergieren kann sehr nützlich.
+
+=== Technologien
+* https://developer.atlassian.com/cloud/trello/rest/api-group-actions/[TrelloRestapi]
+* https://docs.moodle.org/dev/Web_service_API_functions[Moodle Restapi]
+* MySql
+* JavaFx
+
+
 
 === Ziele
 
